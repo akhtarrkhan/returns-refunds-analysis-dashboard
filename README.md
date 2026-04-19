@@ -22,7 +22,7 @@ This dashboard was designed to answer:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
