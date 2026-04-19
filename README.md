@@ -54,10 +54,9 @@ This dashboard was designed to answer:
 ---
 
 ## Files
-
-* `Returns_Refunds_Dashboard.twbx` → Tableau dashboard
-* `returns_data.csv` → dataset
-* `dashboard_overview.png` → dashboard screenshot
+* `Refunds_Trend_Dashboard.twbx` – Tableau workbook
+* `data/returns_cleaned_data.csv` – cleaned dataset
+* `images/dashboard_overview.png` – dashboard screenshot
 
 ---
 
